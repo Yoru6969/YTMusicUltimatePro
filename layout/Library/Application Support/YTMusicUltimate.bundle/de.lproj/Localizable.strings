@@ -56,6 +56,8 @@
 "HIDE_HISTORY_BUTTON_DESC" = "Blendet den Verlauf-Button in der Navigationsleiste aus";
 "HIDE_CAST_BUTTON" = "Cast-Button ausblenden";
 "HIDE_CAST_BUTTON_DESC" = "Blendet den Cast-Button in der Navigationsleiste aus";
+"HIDE_ACCOUNT_BUTTON" = "Hide account button";
+"HIDE_ACCOUNT_BUTTON_DESC" = "Hides account avatar button in the navigation bar";
 "HIDE_FILTER_BUTTON" = "Sortierfilter-Button entfernen";
 "HIDE_FILTER_BUTTON_DESC" = "Entfernt den Bibliothek/Downloads-Filterbutton aus der Navigationsleiste";
 

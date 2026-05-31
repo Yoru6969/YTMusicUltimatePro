@@ -1,5 +1,5 @@
 "SETTINGS" = "Impostazioni";
-"ENABLED" = "Abilita YTMusicUltimate";
+"ENABLED" = "Abilita YTMusicUltimatePro";
 "ENABLED_DESC" = "Funzionalità premium, no pubblicità, riproduzione in background, ecc.";
 "RESTART_FOOTER" = "Riavvia l'app per applicare le modifiche";
 
@@ -56,6 +56,8 @@
 "HIDE_HISTORY_BUTTON_DESC" = "Nasconde il tasto cronologia nella barra di navigazione";
 "HIDE_CAST_BUTTON" = "Nascondi tasto cast";
 "HIDE_CAST_BUTTON_DESC" = "Nasconde il tasto cast nella barra di navigazione";
+"HIDE_ACCOUNT_BUTTON" = "Hide account button";
+"HIDE_ACCOUNT_BUTTON_DESC" = "Hides account avatar button in the navigation bar";
 "HIDE_FILTER_BUTTON" = "Rimuovi il tasto ordina/filtra";
 "HIDE_FILTER_BUTTON_DESC" = "Rimuove il tasto filtra Libreria/Download dalla barra di navigazione";
 

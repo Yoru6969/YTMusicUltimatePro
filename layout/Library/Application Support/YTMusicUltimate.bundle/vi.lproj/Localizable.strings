@@ -1,5 +1,5 @@
 "SETTINGS" = "Cài đặt";
-"ENABLED" = "Bật YTMusicUltimate";
+"ENABLED" = "Bật YTMusicUltimatePro";
 "ENABLED_DESC" = "Mở khóa các tính năng Premium, chặn quảng cáo, phát trong nền, v.v.";
 "RESTART_FOOTER" = "Khởi động lại ứng dụng để áp dụng các thay đổi";
 
@@ -56,6 +56,8 @@
 "HIDE_HISTORY_BUTTON_DESC" = "Ẩn nút mở lịch sử phát khỏi thanh điều hướng";
 "HIDE_CAST_BUTTON" = "Ẩn nút Truyền";
 "HIDE_CAST_BUTTON_DESC" = "Ẩn nút truyền nội dung đến thiết bị khác khỏi thanh điều hướng";
+"HIDE_ACCOUNT_BUTTON" = "Hide account button";
+"HIDE_ACCOUNT_BUTTON_DESC" = "Hides account avatar button in the navigation bar";
 "HIDE_FILTER_BUTTON" = "Ẩn nút Lọc và sắp xếp";
 "HIDE_FILTER_BUTTON_DESC" = "Ẩn nút mở tùy chọn bộ lọc khỏi thanh trên trong tab Thư viện và Tải xuống";
 

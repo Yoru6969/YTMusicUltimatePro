@@ -56,6 +56,8 @@
 "HIDE_HISTORY_BUTTON_DESC" = "在导航栏中隐藏播放历史按钮";
 "HIDE_CAST_BUTTON" = "隐藏投屏按钮";
 "HIDE_CAST_BUTTON_DESC" = "在导航栏中隐藏投屏按钮";
+"HIDE_ACCOUNT_BUTTON" = "Hide account button";
+"HIDE_ACCOUNT_BUTTON_DESC" = "Hides account avatar button in the navigation bar";
 "HIDE_FILTER_BUTTON" = "隐藏分类按钮";
 "HIDE_FILTER_BUTTON_DESC" = "在导航栏中隐藏库\/下载分类按钮";
 

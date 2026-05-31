@@ -56,6 +56,8 @@
 "HIDE_HISTORY_BUTTON_DESC" = "يقوم بإخفاء زر سجل التصفح من الشاشة الرئيسية";
 "HIDE_CAST_BUTTON" = "إخفاء زر الكاست";
 "HIDE_CAST_BUTTON_DESC" = "يقوم بإخفاء زر الكاست من الشاشة الرئيسية";
+"HIDE_ACCOUNT_BUTTON" = "Hide account button";
+"HIDE_ACCOUNT_BUTTON_DESC" = "Hides account avatar button in the navigation bar";
 "HIDE_FILTER_BUTTON" = "إخفاء زر الفلترة";
 "HIDE_FILTER_BUTTON_DESC" = "يقوم بإخفاء زر فلترة المكتبة/التنزيلات من شريط التنقل";
 

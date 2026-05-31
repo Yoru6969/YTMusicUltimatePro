@@ -56,6 +56,8 @@
 "HIDE_HISTORY_BUTTON_DESC" = "ナビゲーションバーの履歴ボタンを非表示にします";
 "HIDE_CAST_BUTTON" = "キャストボタンを非表示";
 "HIDE_CAST_BUTTON_DESC" = "ナビゲーションバーのキャストボタンを非表示にします";
+"HIDE_ACCOUNT_BUTTON" = "Hide account button";
+"HIDE_ACCOUNT_BUTTON_DESC" = "Hides account avatar button in the navigation bar";
 "HIDE_FILTER_BUTTON" = "Remove sort filter button";
 "HIDE_FILTER_BUTTON_DESC" = "Removes Library/Downloads filter button from the navigation bar";
 

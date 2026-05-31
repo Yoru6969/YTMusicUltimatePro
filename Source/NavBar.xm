@@ -29,6 +29,11 @@ static BOOL YTMU(NSString *key) {
             self.hidden = YES;
         }
     }
+    if (YTMU(@"YTMUltimateIsEnabled") && YTMU(@"hideAccountButton")) {
+        if ([self.accessibilityIdentifier isEqualToString:@"id.navigation.account.button"]) {
+            self.hidden = YES;
+        }
+    }
 }
 %end
 

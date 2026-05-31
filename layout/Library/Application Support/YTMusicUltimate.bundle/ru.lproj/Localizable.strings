@@ -1,5 +1,5 @@
 "SETTINGS" = "Настройки";
-"ENABLED" = "Включить YTMusicUltimate";
+"ENABLED" = "Включить YTMusicUltimatePro";
 "ENABLED_DESC" = "Премиум, нет рекламы, работает в фоне и т.д.";
 "RESTART_FOOTER" = "Для применения настроек потребуется перезапуск";
 
@@ -56,6 +56,8 @@
 "HIDE_HISTORY_BUTTON_DESC" = "Убирает кнопку «История» с панели навигации";
 "HIDE_CAST_BUTTON" = "Скрыть кнопку «Транслировать»";
 "HIDE_CAST_BUTTON_DESC" = "Убирает кнопку «Транслировать» с панели навигации";
+"HIDE_ACCOUNT_BUTTON" = "Hide account button";
+"HIDE_ACCOUNT_BUTTON_DESC" = "Hides account avatar button in the navigation bar";
 "HIDE_FILTER_BUTTON" = "Скрыть кнопку смены раздела";
 "HIDE_FILTER_BUTTON_DESC" = "Убирает кнопку смены раздела (Библиотека/Сохраненные) с панели навигации";
 
