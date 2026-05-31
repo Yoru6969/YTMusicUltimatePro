@@ -71,7 +71,8 @@ CGFloat pivotBarViewHeight;
         @"FEmusic_home": @(YTMU(@"hideHomeTab")),
         @"FEmusic_immersive": @(YTMU(@"hideSamplesTab")),
         @"FEmusic_explore": @(YTMU(@"hideExploreTab")),
-        @"FEmusic_library_landing": @(YTMU(@"hideLibraryTab"))
+        @"FEmusic_library_landing": @(YTMU(@"hideLibraryTab")),
+        @"SPunlimited": @(YTMU(@"hideUpgradeTab"))
     };
 
     for (NSString *identifier in identifiersToRemove) {

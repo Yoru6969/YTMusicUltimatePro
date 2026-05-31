@@ -217,7 +217,7 @@
         }
     }
     actionTitle:LOC(@"DELETE")];
-    alertView.title = @"YTMusicUltimate";
+    alertView.title = @"YTMusicUltimatePro";
     alertView.subtitle = [NSString stringWithFormat:LOC(@"DELETE_MESSAGE"), [self.audioFiles[indexPath.row] stringByDeletingPathExtension]];
     [alertView show];
 }
