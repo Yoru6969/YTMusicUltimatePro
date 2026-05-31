@@ -1,4 +1,4 @@
-# YTMusicUltimate
+# YTMusicUltimatePro
 <p align="center">
 <img src=https://user-images.githubusercontent.com/38832025/235781424-06d81647-b3db-4d9b-94dc-cd65cdf09145.png?raw=true) />
 </p>    
@@ -56,4 +56,4 @@ If the github action works and you cannot find where you can download the result
 
 
 
-Made with ❤ by Ginsu and Dayanch96
+Made with ❤ by Yoru

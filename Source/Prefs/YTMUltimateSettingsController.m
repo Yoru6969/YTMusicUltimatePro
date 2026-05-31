@@ -59,7 +59,7 @@
     } if (section == 3) {
         NSDictionary *infoDictionary = [[NSBundle mainBundle] infoDictionary];
         NSString *appVersion = infoDictionary[@"CFBundleShortVersionString"];
-        return [NSString stringWithFormat:@"\nYouTubeMusic: v%@\nYTMusicUltimate: v%@", appVersion, @(OS_STRINGIFY(TWEAK_VERSION))];
+        return [NSString stringWithFormat:@"\nYouTubeMusic: v%@\nYTMusicUltimatePro: v%@", appVersion, @(OS_STRINGIFY(TWEAK_VERSION))];
     }
 
     return nil;
@@ -81,7 +81,7 @@
         case 2:
             return 1;
         case 3:
-            return 4;
+            return 3;
         default:
             return 0;
     }
@@ -163,8 +163,7 @@
         cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleSubtitle reuseIdentifier:@"linkSection"];
 
         NSArray *settingsData = @[
-            @{@"text": [NSString stringWithFormat:LOC(@"TWITTER"), @"Ginsu"],  @"detail": LOC(@"TWITTER_DESC"), @"image": @"ginsu-24@2x"},
-            @{@"text": [NSString stringWithFormat:LOC(@"TWITTER"), @"Dayanch96"], @"detail": LOC(@"TWITTER_DESC"), @"image": @"dayanch96-24@2x"},
+            @{@"text": [NSString stringWithFormat:LOC(@"TWITTER"), @"Yoru"],  @"detail": LOC(@"TWITTER_DESC"), @"image": @"dayanch96-24@2x"},
             @{@"text": LOC(@"DISCORD"), @"detail": LOC(@"DISCORD_DESC"), @"image": @"discord-24@2x"},
             @{@"text": LOC(@"SOURCE_CODE"), @"detail": LOC(@"SOURCE_CODE_DESC"), @"image": @"github-24@2x"}
         ];
@@ -241,8 +240,7 @@
     }
 
     if (indexPath.section == 3) {
-        NSArray *urls = @[@"https://twitter.com/ginsudev",
-                        @"https://twitter.com/dayanch96",
+        NSArray *urls = @[@"https://twitter.com/Yoru",
                         @"https://discord.gg/VN9ZSeMhEW",
                         @"https://github.com/dayanch96/YTMusicUltimate"];
 
@@ -259,7 +257,7 @@
 
 #pragma mark - Nav bar stuff
 - (NSString *)title {
-    return @"YTMusicUltimate";
+    return @"YTMusicUltimatePro";
 }
 
 - (void)closeButtonTapped:(id)sender {

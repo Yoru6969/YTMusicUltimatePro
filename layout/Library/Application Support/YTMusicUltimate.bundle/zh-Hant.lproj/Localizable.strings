@@ -56,6 +56,8 @@
 "HIDE_HISTORY_BUTTON_DESC" = "在媒體庫隱藏播放紀錄按鈕";
 "HIDE_CAST_BUTTON" = "隱藏投放按鈕";
 "HIDE_CAST_BUTTON_DESC" = "在上方導覽列隱藏投放按鈕";
+"HIDE_ACCOUNT_BUTTON" = "Hide account button";
+"HIDE_ACCOUNT_BUTTON_DESC" = "Hides account avatar button in the navigation bar";
 "HIDE_FILTER_BUTTON" = "移除分類按鈕";
 "HIDE_FILTER_BUTTON_DESC" = "從導覽列中移除「媒體庫/下載內容」分類按鈕";
 

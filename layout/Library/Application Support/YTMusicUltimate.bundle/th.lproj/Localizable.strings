@@ -1,5 +1,5 @@
 "SETTINGS" = "การตั้งค่า";
-"ENABLED" = "เปิดใช้งาน YTMusicUltimate";
+"ENABLED" = "เปิดใช้งาน YTMusicUltimatePro";
 "ENABLED_DESC" = "ฟีเจอร์พรีเมียม ไม่มีโฆษณา เล่นเบื้องหลัง และอื่นๆ";
 "RESTART_FOOTER" = "ต้องรีสตาร์ทแอปเพื่อปรับใช้งาน";
 
@@ -56,6 +56,8 @@
 "HIDE_HISTORY_BUTTON_DESC" = "ซ่อนปุ่มประวัติในแถบนำทาง";
 "HIDE_CAST_BUTTON" = "ซ่อนปุ่มแคสต์";
 "HIDE_CAST_BUTTON_DESC" = "ซ่อนปุ่มแคสต์ในแถบนำทาง";
+"HIDE_ACCOUNT_BUTTON" = "Hide account button";
+"HIDE_ACCOUNT_BUTTON_DESC" = "Hides account avatar button in the navigation bar";
 "HIDE_FILTER_BUTTON" = "ลบปุ่มตัวกรองการจัดเรียง";
 "HIDE_FILTER_BUTTON_DESC" = "ลบปุ่มกรองจากคลังเพลงและดาวน์โหลดออกจากแถบนำทาง";
 

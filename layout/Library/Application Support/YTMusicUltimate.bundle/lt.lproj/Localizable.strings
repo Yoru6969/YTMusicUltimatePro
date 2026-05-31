@@ -56,6 +56,8 @@
 "HIDE_HISTORY_BUTTON_DESC" = "Naršymo juostoje paslepia istorijos mygtuką";
 "HIDE_CAST_BUTTON" = "Paslėpti \"Cast\" mygtuką";
 "HIDE_CAST_BUTTON_DESC" = "Naršymo juostoje paslepia \"Cast\" mygtuką";
+"HIDE_ACCOUNT_BUTTON" = "Hide account button";
+"HIDE_ACCOUNT_BUTTON_DESC" = "Hides account avatar button in the navigation bar";
 "HIDE_FILTER_BUTTON" = "Paslėpti rūšiavimo filtro mygtuką";
 "HIDE_FILTER_BUTTON_DESC" = "Navigacijos juostoje paslepia Bibliotekos/Atsisiuntimų filtro mygtuką";
 

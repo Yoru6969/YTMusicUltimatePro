@@ -30,7 +30,7 @@
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-    return 4;
+    return 5;
 }
 
 -(UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath{
@@ -49,6 +49,7 @@
             @{@"title": LOC(@"DONT_STICK_HEADERS"), @"desc": LOC(@"DONT_STICK_HEADERS_DESC"), @"key": @"noStickyHeaders"},
             @{@"title": LOC(@"HIDE_HISTORY_BUTTON"), @"desc": LOC(@"HIDE_HISTORY_BUTTON_DESC"), @"key": @"hideHistoryButton"},
             @{@"title": LOC(@"HIDE_CAST_BUTTON"), @"desc": LOC(@"HIDE_CAST_BUTTON_DESC"),@"key": @"hideCastButton"},
+            @{@"title": LOC(@"HIDE_ACCOUNT_BUTTON"), @"desc": LOC(@"HIDE_ACCOUNT_BUTTON_DESC"),@"key": @"hideAccountButton"},
             @{@"title": LOC(@"HIDE_FILTER_BUTTON"), @"desc": LOC(@"HIDE_FILTER_BUTTON_DESC"), @"key": @"hideFilterButton"}
         ];
 
@@ -80,6 +81,7 @@
         @{@"key": @"noStickyHeaders"},
         @{@"key": @"hideHistoryButton"},
         @{@"key": @"hideCastButton"},
+        @{@"key": @"hideAccountButton"},
         @{@"key": @"hideFilterButton"},
     ];
 
